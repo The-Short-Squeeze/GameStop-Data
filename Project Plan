@@ -1,0 +1,45 @@
+Tittle??
+
+# Slide Format:
+
+## Introduction to Option Trading
+## History of gamestop
+
+## Change in Financial Market
+  - battle of hedgefunds and retail investors
+  - social media influence
+  - Explain short squeeze
+
+## Stock Data Analysis
+  -Trade Volume Analysis
+  - trade volume
+  - trade volume to reddit/twitter interactions
+  - stock history
+  - options history
+  Explain short squeeze
+
+
+Conclusion
+conclusion of findings based on social interactions
+Tie in the effects of these findings together with the data that is shown
+
+
+# Resouces:
+## Social Media Data:
+https://www.reddit.com/dev/api/
+https://developer.twitter.com/en/docs/tutorials/analyze-past-conversations
+
+## Stock Data Analysis
+pypi.org/project/yahoo-fin/
+http://theautomatic.net/yahoo_fin-documentation/#get_options_chain
+https://marketstack.com/documentation
+https://dataondemand.nasdaq.com/docs/index.html#introduction
+
+
+
+Other resource data links:
+https://www.geeksforgeeks.org/python-praw-python-reddit-api-wrapper/
+https://www.optionistics.com/quotes/stock-option-chains/AAPL
+https://www.nasdaq.com/market-activity/stocks/gme/option-chain
+https://developer.twitter.com/en/docs/labs/tweet-metrics/api-reference/get-tweets-metrics
+https://developer.twitter.com/en/apply-for-access
