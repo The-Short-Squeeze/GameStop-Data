@@ -18,7 +18,7 @@ Project investigating the Gamestop "short squeeze" event
 - Resources folder: two of the csv files used in for financial portions of the analyses
 
 - Jupyter notebook files:
- - Analyses produced for project
+  - Analyses produced for project
  
  - Project plan file:
-  - Original outline for project and links for initial source data
+   - Original outline for project and links for initial source data
