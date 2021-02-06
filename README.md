@@ -1,6 +1,6 @@
 # GameStop-Data
 
-Project investigating the Gamestop "short squeeze" event
+Project investigating the Gamestop "short squeeze" event 🚀
 
 
 ## Getting Started
