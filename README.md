@@ -10,6 +10,10 @@ Project investigating the Gamestop "short squeeze" event 🚀
 
 - Individual branches exist for each team member in the project that shows individual contributions
 
+### Instalation
+
+<$ pip install yfinance>
+
 
 ## Features
 
