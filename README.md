@@ -12,8 +12,12 @@ Project investigating the Gamestop "short squeeze" event 🚀
 
 ### Instalation
 
-<$ pip install yfinance>
-
+```
+$ pip install yfinance
+$ pip install pandas
+$ pip install matplotlib
+$ pip install seaborn
+```
 
 ## Features
 
